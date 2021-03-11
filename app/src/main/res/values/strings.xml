@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Foodie</string>
+    <string name="enter_the_recipe">Enter The Recipe</string>
+    <string name="search">Search</string>
+</resources>
